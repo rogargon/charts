@@ -15,6 +15,6 @@ entries:
     - https://github.com/kubernetes/kubernetes/tree/master/examples/spark
     - https://github.com/apache/spark
     urls:
-    - repo%5C/spark-0.2.2.tgz
+    - repo/spark-0.2.2.tgz
     version: 0.2.2
 generated: 2019-04-18T17:17:18.00053-04:00
