@@ -1,1 +1,0 @@
-# Spark 2.4 helm chart
