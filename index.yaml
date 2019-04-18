@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  spark:
+  - appVersion: 1.5.1
+    created: 2019-04-18T17:17:18.0008744-04:00
+    description: Fast and general-purpose cluster computing system.
+    digest: 33c73f90645c876b0c5b2fb427a327d1ea17e538c84baa5f82c45e9e168ac7b4
+    home: http://spark.apache.org
+    icon: http://spark.apache.org/images/spark-logo-trademark.png
+    maintainers:
+    - email: lachlan.evenson@gmail.com
+      name: lachie83
+    name: spark
+    sources:
+    - https://github.com/kubernetes/kubernetes/tree/master/examples/spark
+    - https://github.com/apache/spark
+    urls:
+    - repo%5C/spark-0.2.2.tgz
+    version: 0.2.2
+generated: 2019-04-18T17:17:18.00053-04:00
