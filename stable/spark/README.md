@@ -92,7 +92,7 @@ The following table lists the configurable parameters of the Spark chart and the
 | `Zeppelin.Ingress.Annotations` | annotations for the ingress      | `{}`                                                     |
 | `Zeppelin.Ingress.Path`        | the ingress path                 | `/`                                                      |
 | `Zeppelin.Ingress.Hosts`       | a list of ingress hosts          | `[zeppelin.example.com]`                                 |
-| `Zeppelin.Ingress.Tls`         | a list of [IngressTLS](https://v1-8.docs.kubernetes.io/docs/api-reference/v1.8/#ingresstls-v1beta1-extensions) items | `[]`
+| `Zeppelin.Ingress.Tls`         | a list of [IngressTLS](https://v1-8.docs.kubernetes.io/docs/api-reference/v1.8/#ingresstls-v1-extensions) items | `[]`
 | `Zeppelin.ServiceType `        | Kubernetes Service type          | `LoadBalancer`                                           |
 
 ### Livy
