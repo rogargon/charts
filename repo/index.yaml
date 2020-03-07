@@ -23,6 +23,6 @@ entries:
     - https://github.com/apache/spark
     - https://github.com/Azure/mmlspark/tree/master/tools/helm/docker_images
     urls:
-    - spark/spark-1.0.2.tgz
-    version: 1.0.2
+    - spark/spark-1.0.3.tgz
+    version: 1.0.3
 generated: "2020-03-07T01:14:41.066729+01:00"
